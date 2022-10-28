@@ -2,4 +2,8 @@ Huamani Pereira
 
 cambio
 
+<<<<<<< HEAD
 usuari2
+=======
+usuari1
+>>>>>>> 217a68263bc487fac16b1202c3fcbc7c8e1fba7e
